@@ -79,3 +79,7 @@ The application should now be running on http://localhost:5173.
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
