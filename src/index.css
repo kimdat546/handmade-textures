@@ -13,8 +13,8 @@
 }
 
 body {
-    background: #eee url("./white-paper-texture-with-flecks.jpg") no-repeat
-        center;
+    background: #eee url("../public/white-paper-texture-with-flecks.jpg")
+        no-repeat center;
     background-size: cover;
     padding: 0;
     margin: 0;
@@ -130,9 +130,12 @@ div[role="button"] {
 
 @media (max-width: 500px) {
     body {
-        background: #eee url("./LRH_paper_texture_tile.jpg") repeat fixed center;
+        background: #eee url("../public/LRH_paper_texture_tile.jpg") repeat
+            fixed center;
     }
-    .title, .images, canvas {
+    .title,
+    .images,
+    canvas {
         padding-left: 1rem;
         padding-right: 1rem;
     }
