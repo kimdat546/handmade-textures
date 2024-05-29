@@ -1,5 +1,7 @@
 # Handmade Textures - README
 
+![Handmade Textures Demo](./assets/handmade_textures_demo.gif)
+
 ## Overview
 
 Handmade Textures is a web application that allows users to upload an image, convert it to a canvas drawing that simulates a pencil sketch, and then download the final artwork. This project provides an interactive and engaging way to transform regular images into hand-drawn textures with a few simple steps.
