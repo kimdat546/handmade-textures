@@ -32,13 +32,13 @@ cd handmade-textures
 #### 2. Install Dependencies:
 
 ```bash
-yarn
+npm i
 ```
 
 #### 3. Start the Development Server:
 
 ```bash
-yarn dev
+npm run dev
 ```
 
 The application should now be running on http://localhost:5173.
